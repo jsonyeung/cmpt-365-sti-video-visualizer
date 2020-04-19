@@ -1,5 +1,5 @@
 # STI video visualizer
-STI Transition Visualizer is a program that helps you visualize transitions using frames from a video clip to generate an image.
+A program that visualizes video transitions using frames from a clip to generate Spatio-Temporal Images (STI).
 
 ![app-demo](docs/demo.png)
 
