@@ -1,0 +1,7 @@
+.vscode/
+node_modules/
+**/__pycache__
+dist/
+build/
+
+package-lock.json
