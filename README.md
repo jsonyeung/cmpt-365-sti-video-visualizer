@@ -8,6 +8,7 @@ A program that visualizes video transitions using frames from a clip to generate
 - OpenCV
 - Tkinter
 - NumPy
+- Eel
 - PyInstaller (for building)
 
 ---
